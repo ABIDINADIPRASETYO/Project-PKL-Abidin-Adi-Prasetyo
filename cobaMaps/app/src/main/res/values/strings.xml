@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chap Lezaad</string>
+    <string name="action_settings">Settings</string>
+    <string name="toolbar_title">Contacts</string>
+    <string name="action_search">Search</string>
+
+    <string name="List">List</string>
+
+    <string name="permission_dialog">Accessing Location Permissions required</string>
+    <string name="go_to_permissions_settings">Go to App settings and enable permissions</string>
+
+    <string name="search">Search</string>
+    <string name="type_name">Masukkan Nama Reseller</string>
+    <string name="masukkan_nama_reseller">Masukkan Nama Reseller</string>
+</resources>
